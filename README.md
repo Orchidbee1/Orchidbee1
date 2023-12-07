@@ -21,7 +21,7 @@
 
 
 
-### :hammer_and_wrench: Мои навыки: 
+### Мои навыки: 
 
 <div>
   <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
