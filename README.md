@@ -2,7 +2,7 @@
   <img width="400" height="250" src="https://github.com/Orchidbee1/Orchidbee1/blob/main/giphy.gif"  alt="animated" />
 </p>
 
-### <p align="center">Привет, меня зовут Татьяна и я аналитик! 👋</p>
+### <p align="center">Привет, меня зовут Николай и я аналитик! 👋</p>
 
 ---
 
