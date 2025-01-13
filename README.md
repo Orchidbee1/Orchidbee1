@@ -36,7 +36,9 @@
   <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Tableau" alt="Tableau" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
-  
+  <img src="https://img.shields.io/badge/greenplum-white?logo=greenplum&style=for-the-badge" title="Greenplum" alt="Greenplum" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/hadoop-white?logo=apachehadoop&logoColor=yellow&style=for-the-badge" title="Hadoop" alt="Hadoop" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/hive-white?logo=apachehive&style=for-the-badge" title="Hive" alt="Hive" height="40"/>&nbsp;
   
 </div>
 
