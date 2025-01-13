@@ -6,7 +6,7 @@
 
 ---
 
-### Обо мне: 
+### about me: 
 
   -📈 I successfully completed the Data Analytics course, the analyst simulator, and the A/B testing simulator from Karpov.Courses.
 
@@ -20,7 +20,7 @@
 
 
 
-### Мои навыки: 
+### my skills: 
 
 <div>
   <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
